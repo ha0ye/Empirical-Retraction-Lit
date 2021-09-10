@@ -28,7 +28,7 @@ contact:
        - family-names: Schneider
          given-names: Jodi
          orcid: "https://orcid.org/0000-0002-5098-5667"
-doi: "10.5281/zenodo.5498500" #version DOI
+doi: "10.5281/zenodo.5498500" # version DOI
 url: https://infoqualitylab.org/projects/risrs2020/bibliography/
 license: "CC-BY-4.0"
 references:
